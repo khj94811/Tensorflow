@@ -18,4 +18,3 @@
     - Convolutional Neural Network
     - VGGNet
 
-- 20.
