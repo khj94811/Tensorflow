@@ -17,3 +17,6 @@
     - VGGNet - 20.03.26
     - Image Augmentation - 20.03.27
 
+- Update Recurrent Neural Network
+    - Recurremnt Neural Network - 20.03.28
+    - LSTM - 20.03.28 (예정)
