@@ -10,11 +10,12 @@
 
 # Update
 
-- 20.03.24) Update Classification
-    - Binary, Multinomial Classification  
-    - Fashion MNIST
+- Update Classification
+    - Binary, Multinomial Classification - 20.03.24
+    - Fashion MNIST - 20.03.24
 
-- 20.03.26) Update Convolutional Neural Network
-    - Convolutional Neural Network
-    - VGGNet
+- Update Convolutional Neural Network
+    - Convolutional Neural Network - 20.03.26
+    - VGGNet - 20.03.26
+    - Image Augmentation - 20.03.27
 
