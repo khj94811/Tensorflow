@@ -6,7 +6,7 @@
 
 <br>
 
-# Update
+# Index
 
 - Update Classification
     - Binary, Multinomial Classification - 20.03.24
@@ -19,4 +19,16 @@
 
 - Update Recurrent Neural Network
     - Recurremnt Neural Network - 20.03.28
-    - LSTM - 20.03.28 (예정)
+    - LSTM - 20.03.29
+    - GRU
+    - Embedding Layer
+    - Sentimental Analysis
+    - Natural Language Generation
+    
+- Pre-trained Model
+    - Tensorflow Hub
+    - Transfer Learning
+   
+- Auto Encoder
+
+- Reinforcement Learning
