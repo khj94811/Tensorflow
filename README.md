@@ -20,9 +20,9 @@
 - Update Recurrent Neural Network
     - Recurremnt Neural Network - 20.03.28
     - LSTM - 20.03.29
-    - GRU
-    - Embedding Layer
-    - Sentimental Analysis
+    - GRU - 20.03.29
+    - Embedding Layer - 20.03.29
+    - Sentimental Analysis - 20.03.30
     - Natural Language Generation
     
 - Pre-trained Model
