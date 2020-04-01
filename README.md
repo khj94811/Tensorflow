@@ -32,7 +32,3 @@
 - Auto Encoder
 
 - Reinforcement Learning
-
-# Test
-
-- 재미로 친구들과의 카카오톡 단체방 대화 내역을 가져와서 자연어생성 모델에 돌려봤다. 20.04.01
