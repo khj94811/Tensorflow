@@ -23,7 +23,7 @@
     - GRU - 20.03.29
     - Embedding Layer - 20.03.29
     - Sentimental Analysis - 20.03.30
-    - Natural Language Generation - 20.04.01
+    - Natural Language Generation - 20.04.02
     
 - Pre-trained Model
     - Tensorflow Hub
