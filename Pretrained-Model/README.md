@@ -13,3 +13,7 @@
 ## Tensorflow Hub
 
 - 재사용 가능한 Model을 쉽게 이용할 수 있는 라이브러리
+
+- https://tfhub.dev
+
+- Tensorflow 2.x를 사용하면, Tensorflow Hub 설치는 따로 필요 없고 바로 Library를 불러올 수 있다.
