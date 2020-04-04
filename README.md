@@ -4,8 +4,6 @@
 
 - 예전에 공부했었지만, 초심으로 돌아가서 다시 처음부터 시작하자!
 
-- 피곤해서 조금 쉬면서 하는중.
-
 # Index
 
 - Update Classification
@@ -23,7 +21,7 @@
     - GRU - 20.03.29
     - Embedding Layer - 20.03.29
     - Sentimental Analysis - 20.03.30
-    - Natural Language Generation
+    - Natural Language Generation - 20.04.02
     
 - Pre-trained Model
     - Tensorflow Hub
