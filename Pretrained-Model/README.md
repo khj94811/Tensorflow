@@ -11,9 +11,31 @@
 - 이런 모델을 그대로 사용할 수도 있지만, Transfer Learning이나 Neural Style Transfer를 통해 재가공 하는 것이 가능하다.
 
 ## Tensorflow Hub
+---
 
 - 재사용 가능한 Model을 쉽게 이용할 수 있는 라이브러리
 
 - https://tfhub.dev
 
 - Tensorflow 2.x를 사용하면, Tensorflow Hub 설치는 따로 필요 없고 바로 Library를 불러올 수 있다.
+
+## Transfer Learning
+---
+
+- Transfer Learning은 미리 훈련된 모델을 다른 작업에 사용하기 위해서 추가적인 학습을 시키는 것을 말한다.
+
+- 이때 훈련된 모델은 데이터에서 유의미한 Feature를 뽑아내기 위한 Feature Extractor로 쓰이거나, Model의 일부를 재학습시키기도 한다.
+
+- CNN 전이학습을 예로 들어보자
+
+![CNN Transfer Learning](https://miro.medium.com/max/1400/1*qfQ3hmHLwApXZBN-A85r8g.png)
+
+- 미리 훈련된 CNN을 불러오고, 가장 마지막의 Dense Layer를 제외한다.
+
+- 다음으로 새로운 분류 작업을 위한 레이어를 추가해야한다.
+
+    - 이 때, 잘린 부분에서의 Dense Layer 하나만 추가할 수도 있지만, 조금 더 복잡한 분류 작업을 위해서 여러 개의 Dense Layer와 Dropout Layer를 추가하기도 한다.
+
+- 새롭게 추가된 Layer만 훈련시킬 수도 있고, 훈련된 모델의 일부 레이어를 훈련하는 것도 가능하다.
+
+    - 훈련하지 않은 Layer를 'freeze' 라고 표현한다.
