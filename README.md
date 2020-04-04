@@ -25,6 +25,7 @@
     
 - Pre-trained Model
     - Tensorflow Hub
+        - MobileNet-V2 - 20.04.04
     - Transfer Learning
    
 - Auto Encoder
