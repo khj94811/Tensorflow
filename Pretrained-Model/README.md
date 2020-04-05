@@ -11,7 +11,6 @@
 - 이런 모델을 그대로 사용할 수도 있지만, Transfer Learning이나 Neural Style Transfer를 통해 재가공 하는 것이 가능하다.
 
 ## Tensorflow Hub
----
 
 - 재사용 가능한 Model을 쉽게 이용할 수 있는 라이브러리
 
@@ -20,7 +19,6 @@
 - Tensorflow 2.x를 사용하면, Tensorflow Hub 설치는 따로 필요 없고 바로 Library를 불러올 수 있다.
 
 ## Transfer Learning
----
 
 - Transfer Learning은 미리 훈련된 모델을 다른 작업에 사용하기 위해서 추가적인 학습을 시키는 것을 말한다.
 
