@@ -39,3 +39,11 @@
 - 새롭게 추가된 Layer만 훈련시킬 수도 있고, 훈련된 모델의 일부 레이어를 훈련하는 것도 가능하다.
 
     - 훈련하지 않은 Layer를 'freeze' 라고 표현한다.
+
+- Google Colab을 이용하여 Training을 해보려고 하였으나,
+
+    - 내 PC에 설정해서 쓰려고 했는데, AMD CPU / GPU 셋트에서 설정하는걸 미루다보니..
+
+        - 왜 Docker Toolkit 쓰려고 하는데 에러가 나는걸까!
+
+        - VM은 쓰기 싫으니, Ubuntu Dualboot 시간날때 꼭 해놓자..
